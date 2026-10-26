@@ -1,0 +1,23 @@
+{
+  "document_type": "IELTS Test Report Form",
+  "fields": [
+    { "key": "certificate_type", "label": "Certificate Type" },
+    { "key": "test_report_form_number", "label": "Test Report Form Number" },
+    { "key": "centre_number", "label": "Centre Number" },
+    { "key": "test_date", "label": "Test Date" },
+    { "key": "candidate_number", "label": "Candidate Number" },
+    { "key": "candidate_id", "label": "Candidate ID" },
+    { "key": "family_name", "label": "Family Name" },
+    { "key": "given_name", "label": "Given Name" },
+    { "key": "date_of_birth", "label": "Date of Birth" },
+    { "key": "sex", "label": "Sex" },
+    { "key": "nationality", "label": "Nationality" },
+    { "key": "first_language", "label": "First Language" },
+    { "key": "test_type", "label": "Test Type" },
+    { "key": "listening_band", "label": "Listening Band" },
+    { "key": "reading_band", "label": "Reading Band" },
+    { "key": "writing_band", "label": "Writing Band" },
+    { "key": "speaking_band", "label": "Speaking Band" },
+    { "key": "overall_band", "label": "Overall Band" }
+  ]
+}
